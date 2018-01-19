@@ -1,11 +1,42 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "productData": {
+    "products": [
+      {
+        "name": "iPhone X",
+        "description": " Description of iPhone X",
+        "image": "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "phone": "+1 (437) 922-8906",
+        "web": "https://www.facebook.com/stepin2it/"
+      },
+      {
+        "name": "iPhone X",
+        "description": " Description of iPhone X",
+        "image": "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "phone": "+1 (437) 922-8906",
+        "web": "https://www.facebook.com/stepin2it/"
+      },
+      {
+        "name": "iPhone X",
+        "description": " Description of iPhone X",
+        "image": "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "phone": "+1 (437) 922-8906",
+        "web": "https://www.facebook.com/stepin2it/"
+      },
+      {
+        "name": "iPhone X",
+        "description": " Description of iPhone X",
+        "image": "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "phone": "+1 (437) 922-8906",
+        "web": "https://www.facebook.com/stepin2it/"
+      },
+      {
+        "name": "iPhone X",
+        "description": " Description of iPhone X",
+        "image": "https://c.slashgear.com/wp-content/uploads/2017/09/apple-iphone-x-space-gray-0-200x200.jpg",
+        "phone": "+1 (437) 922-8906",
+        "web": "https://www.facebook.com/stepin2it/"
+      }
+    ],
+    "dataFrom": "Stepin2IT"
   }
 }
